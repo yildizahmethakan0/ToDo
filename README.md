@@ -1,3 +1,20 @@
+My Special ToDo list
+
+
+
+![screen-1](https://github.com/user-attachments/assets/e5f2ee3c-a192-400a-9116-3987a46ed1aa)
+
+
+******* When you add some duty*******
+
+
+![screen-2](https://github.com/user-attachments/assets/8cd1aefd-bc4a-4887-bc83-b23c231aa429)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
